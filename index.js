@@ -1,0 +1,1 @@
+document.getElementById("testapp").innerHTML = "App like Titlebar";
