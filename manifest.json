@@ -15,19 +15,19 @@
       "src": "./images/squirrel-1024.png",
       "type": "image/png",
       "sizes": "1024x1024",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "./images/squirrel-512.png",
       "type": "image/png",
       "sizes": "512x512",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "./images/squirrel-256.png",
       "type": "image/png",
       "sizes": "256x256",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
