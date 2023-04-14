@@ -8,15 +8,13 @@
   "scope": "/",
   "short_name": "App Like Titlebar",
   "start_url": "/index.html",
-  "theme_color": "rgb(54, 115, 114)",
+  "theme_color": "#000000",
   "categories": [],
-  "screenshots": [],
   "icons": [
     {
       "src": "./favicon.ico",
       "type": "image/jpeg",
       "sizes": "1024x1024"
     }
-  ],
-  "shortcuts": []
+  ]
 }
