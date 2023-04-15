@@ -5,9 +5,9 @@
   "display": "minimal-ui",
   "name": "App Like Titlebar",
   "orientation": "any",
-  "scope": "/",
+  "scope": ".",
   "short_name": "App Like Titlebar",
-  "start_url": "/",
+  "start_url": ".",
   "theme_color": "#800080",
   "categories": [],
   "icons": [
