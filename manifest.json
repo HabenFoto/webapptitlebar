@@ -3,6 +3,7 @@
   "description": "Test PWA for testing App Like Titlebar feature",
   "dir": "auto",
   "display": "minimal-ui",
+  "display_override": ["tabbed", "minimal-ui"],
   "name": "App Like Titlebar",
   "orientation": "any",
   "scope": ".",
