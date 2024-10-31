@@ -1,5 +1,5 @@
 {
-  "background_color": "light grey",
+  "background_color": "blue gray",
   "description": "Test PWA for testing App Like Titlebar feature",
   "dir": "auto",
   "display": "minimal-ui",
