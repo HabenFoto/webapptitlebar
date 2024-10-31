@@ -9,7 +9,7 @@
   "scope": ".",
   "short_name": "App Like Titlebar",
   "start_url": ".",
-  "theme_color": "#800080",
+  "theme_color": "grey",
   "categories": [],
   "icons": [
     {
