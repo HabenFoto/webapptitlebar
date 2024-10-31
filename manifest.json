@@ -1,5 +1,5 @@
 {
-  "background_color": "azure",
+  "background_color": "light grey",
   "description": "Test PWA for testing App Like Titlebar feature",
   "dir": "auto",
   "display": "minimal-ui",
